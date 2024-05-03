@@ -24,9 +24,9 @@ This tool is designed to be user-friendly and intuitive. To get started, simply 
       - If you encounter any issues or require further assistance, contact the support team via email: [xavier.urbano@pennmedicine.upenn.edu](mailto:xavier.urbano@pennmedicine.upenn.edu)
 
 ## Example
-An example of how the tool looks like is showed in Figure 1.
+An example of how the tool appears is shown in Figure 1.
 <p align="center">
   <img src="img/Example_of_the_tool.png" alt="Example of the ASL CBF rating tool." width="800"/>
   <br>
-  <em> Fig.1.Example of the ASL CBF rating tool.</em>
+  <em> Figure.1. Example of the ASL CBF rating tool.</em>
 </p>
